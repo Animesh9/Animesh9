@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Animesh Jain</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Animesh+Jain!;" />
+</h1>
 <h3 align="center">A passionate Software Development Engineer in Test from India</h3>
 <img align="right" alt="Coding" width="400" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif">
 
@@ -6,7 +8,7 @@
 
 - 💬 Ask me about **Selenium, REST Assured**
 
-- 📫 How to reach me **animesh19j@gmail.com**
+- 📫 How to reach me **animesh19j@gmail.com** 
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vKqNmpyOXrqlwV6CTlKmAZt3fVOFbfGB/view?usp=sharing)
 
