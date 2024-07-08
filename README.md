@@ -4,7 +4,7 @@
 <h3 align="center">A passionate Software Development Engineer in Test from India</h3>
 <img align="right" alt="Coding" width="250" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif">
 
-- 🌱 I’m currently learning **Testing**
+- 🌱 I’m currently learning **Javascript and Playwright**
 
 - 💬 Ask me about **Selenium, REST Assured**
 
