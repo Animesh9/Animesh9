@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">A passionate Software Development Engineer in Test from India</h3>
 <img align="right" alt="Coding" width="250" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif">
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh9&label=Profile%20views&color=0e75b6&style=flat" alt="animesh9" /> </p>
 - 🌱 I’m currently learning **Javascript and Playwright**
 
 - 💬 Ask me about **Selenium, REST Assured**
