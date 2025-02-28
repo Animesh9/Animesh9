@@ -5,11 +5,13 @@
 <img align="right" alt="Coding" width="250" src="https://statusneo.com/wp-content/uploads/2023/03/GIF-image-1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animesh9&label=Profile%20views&color=0e75b6&style=flat" alt="animesh9" /> </p>
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 Building expertise in **JAVA**
 
 - 💬 Ask me about **Selenium, REST Assured, Appium**
 
-- 📫 How to reach me **animesh19j@gmail.com** 
+- 📫 How to reach me **animesh19j@gmail.com**
+
+- 💡 Always exploring new test automation tools!
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vKqNmpyOXrqlwV6CTlKmAZt3fVOFbfGB/view?usp=sharing)
 
